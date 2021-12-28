@@ -1,0 +1,7 @@
+{
+    "[javascript]": {
+    "editor.formatOnSave": true
+},
+"editor.defaultFormatter": "bysabi.prettier-vscode-standard",
+"editor.formatOnSave": true
+}
